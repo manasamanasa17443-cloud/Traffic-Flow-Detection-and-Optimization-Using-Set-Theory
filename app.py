@@ -1,8 +1,6 @@
-import tkinter as tk
-from tkinter import ttk, messagebox, scrolledtext
+import streamlit as st
 import random
 import time
-
 class TrafficSimulation:
     def __init__(self, root):
         self.root = root
