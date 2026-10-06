@@ -1,4 +1,5 @@
-import streamlit as st
+import tkinter as tk
+from tkinter import ttk, messagebox, scrolledtext
 import random
 import time
 class TrafficSimulation:
